@@ -1,0 +1,23 @@
+{
+    "name": "jonathan-martz/magento2-statistics",
+    "type": "magento2-module",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jonathan-martz",
+            "email": "github@jmartz.de"
+        }
+    ],
+    "require": {
+        "php": "^7.1|^7.2|^7.3|^7.4",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "JonathanMartz\\Statistics\\": ""
+        }
+    }
+}
