@@ -1,7 +1,7 @@
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
     <default>
-        <magento>
-            <statistics>
+        <statistics>
+            <general>
                 <enable>1</enable>
                 <endpoint>https://api.jmartz.de</endpoint>
                 <enable_product>1</enable_product>
@@ -16,7 +16,7 @@
                 <enable_design>1</enable_design>
                 <design_name>Flagbit GmbH &amp; CO. KG</design_name>
                 <design_website>www.flagbit.de</design_website>
-            </statistics>
-        </magento>
+            </general>
+        </statistics>
     </default>
 </config>

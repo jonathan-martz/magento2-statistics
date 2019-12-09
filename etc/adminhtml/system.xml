@@ -7,7 +7,7 @@
             <label>Statistics</label>
             <tab>general</tab>
             <resource>JonathanMartz_Statistics::config</resource>
-            <group id="statistics" translate="label" type="text" sortOrder="2" showInDefault="1" showInWebsite="1"
+            <group id="general" translate="label" type="text" sortOrder="2" showInDefault="1" showInWebsite="1"
                    showInStore="1">
                 <label>General Configuration</label>
                 <field id="enable" translate="label" type="select" sortOrder="1" showInDefault="1" showInWebsite="0"

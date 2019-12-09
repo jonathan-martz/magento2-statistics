@@ -29,72 +29,72 @@ class SendData
     /**
      * Module enabled
      */
-    const XML_PATH_ENABLED = 'magento/statistics/enable';
+    const XML_PATH_ENABLED = 'statistics/general/enable';
 
     /**
      * Endpoint Url
      */
-    const XML_PATH_ENDPOINT = 'magento/statistics/endpoint';
+    const XML_PATH_ENDPOINT = 'statistics/general/endpoint';
 
     /**
      * enabled Product Data
      */
-    const XML_PATH_ENABLED_PRODUCT = 'magento/statistics/enable_product';
+    const XML_PATH_ENABLED_PRODUCT = 'statistics/general/enable_product';
 
     /**
      * enabled Product Data
      */
-    const XML_PATH_ENABLED_MODULES = 'magento/statistics/enable_modules';
+    const XML_PATH_ENABLED_MODULES = 'statistics/general/enable_modules';
 
     /**
      * enabled Category Data
      */
-    const XML_PATH_ENABLED_CATEGORY = 'magento/statistics/enable_category';
+    const XML_PATH_ENABLED_CATEGORY = 'statistics/general/enable_category';
 
     /**
      * enabled Order Data
      */
-    const XML_PATH_ENABLED_ORDER = 'magento/statistics/enable_order';
+    const XML_PATH_ENABLED_ORDER = 'statistics/general/enable_order';
 
     /**
      * enabled Store Data
      */
-    const XML_PATH_ENABLED_STORE = 'magento/statistics/enable_store';
+    const XML_PATH_ENABLED_STORE = 'statistics/general/enable_store';
 
     /**
      * enabled Customer Data
      */
-    const XML_PATH_ENABLED_CUSTOMER = 'magento/statistics/enable_customer';
+    const XML_PATH_ENABLED_CUSTOMER = 'statistics/general/enable_customer';
 
     /**
      * enabled Development Agency
      */
-    const XML_PATH_ENABLED_DEVELOPMENT = 'magento/statistics/enable_development';
+    const XML_PATH_ENABLED_DEVELOPMENT = 'statistics/general/enable_development';
 
     /**
      * enabled Design Agency
      */
-    const XML_PATH_ENABLED_DESIGN = 'magento/statistics/enable_design';
+    const XML_PATH_ENABLED_DESIGN = 'statistics/general/enable_design';
 
     /**
      * enabled Development Agency
      */
-    const XML_PATH_DEVELOPMENT_NAME = 'magento/statistics/development_name';
+    const XML_PATH_DEVELOPMENT_NAME = 'statistics/general/development_name';
 
     /**
      * enabled Development Agency
      */
-    const XML_PATH_DEVELOPMENT_WEBSITE = 'magento/statistics/development_website';
+    const XML_PATH_DEVELOPMENT_WEBSITE = 'statistics/general/development_website';
 
     /**
      * enabled Design Agency
      */
-    const XML_PATH_DESIGN_NAME = 'magento/statistics/design_name';
+    const XML_PATH_DESIGN_NAME = 'statistics/general/design_name';
 
     /**
      * enabled Design Agency
      */
-    const XML_PATH_DESIGN_WEBSITE = 'magento/statistics/design_website';
+    const XML_PATH_DESIGN_WEBSITE = 'statistics/general/design_website';
 
     /**
      * @var LoggerInterface
