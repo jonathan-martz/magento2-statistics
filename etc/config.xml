@@ -3,6 +3,19 @@
         <magento>
             <statistics>
                 <enable>1</enable>
+                <endpoint>https://api.jmartz.de</endpoint>
+                <enable_product>1</enable_product>
+                <enable_category>1</enable_category>
+                <enable_store>1</enable_store>
+                <enable_customer>1</enable_customer>
+                <enable_order>1</enable_order>
+                <enable_modules>1</enable_modules>
+                <enable_development>1</enable_development>
+                <development_name>Flagbit GmbH &amp; CO. KG</development_name>
+                <development_website>www.flagbit.de</development_website>
+                <enable_design>1</enable_design>
+                <design_name>Flagbit GmbH &amp; CO. KG</design_name>
+                <design_website>www.flagbit.de</design_website>
             </statistics>
         </magento>
     </default>

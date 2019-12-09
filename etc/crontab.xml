@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Cron:etc/crontab.xsd">
     <group id="default">
-        <job instance="JonathanMartz\Statistics\Cron\SendData" method="execute" name="jonathanmartz_Statistics_cron_senddata">
+        <job instance="JonathanMartz\Statistics\Cron\SendData" method="execute" name="jonathanmartz_statistics_cron_senddata">
             <schedule>* * * * *</schedule>
         </job>
     </group>
